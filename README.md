@@ -1,84 +1,48 @@
 # 🚀 CareerPilot AI
 
-## 🤖 AI-Powered Career Development & Placement Platform
+<div align="center">
 
-> **Learn • Practice • Improve • Get Placed**
+# 🤖 CareerPilot AI
 
-CareerPilot AI is an intelligent career development and placement platform designed to help students improve their resumes, develop technical skills, prepare for interviews, discover career opportunities, and become placement-ready.
+### AI-Powered Career Development & Placement Intelligence Platform
 
----
+**Learn • Practice • Improve • Get Placed**
 
-# 🌟 Why Choose CareerPilot AI?
+<p align="center">
 
-| 🤖 Artificial Intelligence | 📈 Career Intelligence | 💻 Placement Preparation | 🔐 Enterprise Security |
-|:-------------------------:|:----------------------:|:------------------------:|:----------------------:|
-| AI Resume Analysis | AI Career Roadmap | Coding Practice | JWT Authentication |
-| ATS Resume Checker | Skill Gap Analysis | AI Mock Interviews | Role-Based Access Control |
-| Resume Parsing | Personalized Learning | Interview Preparation | Password Encryption |
-| Career Recommendation | Placement Readiness | Daily Study Planner | Protected REST APIs |
-| Resume Quality Score | Job Compatibility | Company Tracking | Secure Deployment |
+![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge)
+![Career](https://img.shields.io/badge/Career-Intelligence-blue?style=for-the-badge)
+![Placement](https://img.shields.io/badge/Placement-Platform-orange?style=for-the-badge)
+![React](https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-61DAFB?style=for-the-badge)
+![Node](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=for-the-badge)
+![Python](https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge)
 
----
+</p>
 
-# 🚀 Enterprise Features
+**An intelligent career ecosystem that helps students analyze their skills, improve their resumes, prepare for interviews, practice coding, discover opportunities, and become placement-ready.**
 
-## 🤖 Artificial Intelligence
-
-- AI Resume Parser
-- ATS Resume Compatibility Checker
-- Resume Quality Analysis
-- AI Career Recommendation Engine
-- Personalized Learning Roadmap
-- Skill Gap Detection
-- AI Interview Evaluation
-- AI Coding Feedback
-- Resume Improvement Suggestions
-- AI Career Prediction
-- AI Learning Assistant
-- AI Company Matching
+</div>
 
 ---
 
-# 👨‍🎓 Student Portal
+# 🌟 What is CareerPilot AI?
 
-- Student Registration
-- Secure Login
-- Resume Builder
-- Resume Upload
-- AI Resume Score
-- ATS Compatibility Report
-- Coding Practice
-- Mock Interviews
-- Daily Learning Planner
-- Company Wishlist
-- Internship Tracker
-- Placement Dashboard
-- Certificate Management
-- Notifications Center
-- Learning Progress
-- Placement Readiness Meter
+CareerPilot AI is an AI-powered career development and placement platform built to guide students from **learning to employment**.
 
----
-
-# 💻 Coding Practice Platform
+Instead of using separate platforms for resumes, coding practice, interview preparation, career planning, internships, and placement tracking, CareerPilot AI brings these capabilities together into one intelligent ecosystem.
 
 ```text
-                CODING PLATFORM
-                       │
-        ┌──────────────┼──────────────┐
-        ▼              ▼              ▼
-       DSA            SQL           Java
-        │              │              │
-        ├──────────────┼──────────────┤
-        ▼              ▼              ▼
-     Python       JavaScript      Company Questions
-        │              │              │
-        └──────────────┼──────────────┘
-                       ▼
-                 AI Code Review
-                       │
-                       ▼
-              Performance Analysis
-                       │
-                       ▼
-                  Leaderboard
+                    CAREERPILOT AI
+                          │
+        ┌─────────────────┼─────────────────┐
+        ▼                 ▼                 ▼
+   🎓 STUDENT        🤖 AI ENGINE       🏢 COMPANY
+        │                 │                 │
+        ▼                 ▼                 ▼
+   Learn & Practice   Analyze & Predict   Recruit
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ▼
+                 🎯 PLACEMENT SUCCESS
